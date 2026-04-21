@@ -1,0 +1,14 @@
+{
+  "model": "Model 4b — AlexNet özellikleri + Random Forest",
+  "dataset": "CIFAR-10 (AlexNet feature embeddings, 4096-d)",
+  "classifier": "RandomForestClassifier(n_estimators=200, max_depth=None)",
+  "train_samples": 50000,
+  "test_samples": 10000,
+  "feature_dim": 4096,
+  "training_time_sec": 26.59,
+  "prediction_time_sec": 0.16,
+  "test_accuracy": 0.9199,
+  "precision_macro": 0.9203,
+  "recall_macro": 0.9199,
+  "f1_macro": 0.92
+}

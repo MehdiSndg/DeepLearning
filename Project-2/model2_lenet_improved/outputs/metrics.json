@@ -1,0 +1,16 @@
+{
+  "model": "Model 2 — LeNet-5 İyileştirilmiş (BN + Dropout)",
+  "dataset": "CIFAR-10",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "num_parameters": 62458,
+  "training_time_sec": 125.35,
+  "test_loss": 0.9822,
+  "test_accuracy": 0.6601,
+  "precision_macro": 0.6533,
+  "recall_macro": 0.6601,
+  "f1_macro": 0.6508
+}

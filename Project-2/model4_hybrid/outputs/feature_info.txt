@@ -1,0 +1,12 @@
+Model 4 — Özellik Seti Bilgileri
+==================================================
+Kaynak ağ: AlexNet (model3_alexnet/checkpoint.pth)
+Çıkış boyutu (her örnek): 4096 boyutlu vektör
+
+X_train.npy: shape=(50000, 4096), dtype=float32, length=50000
+y_train.npy: shape=(50000,), dtype=int64, length=50000
+X_test.npy : shape=(10000, 4096), dtype=float32, length=10000
+y_test.npy : shape=(10000,), dtype=int64, length=10000
+
+X_train bellek boyutu: 781.25 MB
+X_test  bellek boyutu: 156.25 MB

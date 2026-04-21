@@ -1,0 +1,6 @@
+model,test_accuracy,precision_macro,recall_macro,f1_macro,training_time_sec
+Model 1 (LeNet Temel),0.6286,0.6275,0.6286,0.6271,120.23
+Model 2 (LeNet İyileşt.),0.6601,0.6533,0.6601,0.6508,125.35
+Model 3 (AlexNet),0.9146,0.9167,0.9146,0.9149,1126.04
+Model 4a (AlexNet+SVM),0.9223,0.9227,0.9223,0.9224,314.8
+Model 4b (AlexNet+RF),0.9199,0.9203,0.9199,0.92,26.59

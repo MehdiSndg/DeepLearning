@@ -1,0 +1,16 @@
+{
+  "model": "Model 1 — LeNet-5 Temel",
+  "dataset": "CIFAR-10",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "num_parameters": 62006,
+  "training_time_sec": 120.23,
+  "test_loss": 1.2391,
+  "test_accuracy": 0.6286,
+  "precision_macro": 0.6275,
+  "recall_macro": 0.6286,
+  "f1_macro": 0.6271
+}

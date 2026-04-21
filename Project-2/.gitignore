@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Veri 
+data/
+!data/.gitkeep
+
+# Model checkpointleri 
+*.pth
+*.pt
+
+# Feature dosyaları 
+model4_hybrid/features/*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claude Code
+.claude/

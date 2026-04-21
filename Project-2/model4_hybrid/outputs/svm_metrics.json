@@ -1,0 +1,15 @@
+{
+  "model": "Model 4a — AlexNet özellikleri + SVM (RBF)",
+  "dataset": "CIFAR-10 (AlexNet feature embeddings, 4096-d)",
+  "classifier": "SVC(kernel=rbf, C=1.0, gamma=scale)",
+  "preprocessing": "StandardScaler",
+  "train_samples": 50000,
+  "test_samples": 10000,
+  "feature_dim": 4096,
+  "training_time_sec": 314.8,
+  "prediction_time_sec": 87.5,
+  "test_accuracy": 0.9223,
+  "precision_macro": 0.9227,
+  "recall_macro": 0.9223,
+  "f1_macro": 0.9224
+}
